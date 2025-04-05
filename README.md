@@ -1,26 +1,51 @@
-# Cost-of-Treatment-Analysis-Antihypertensives
-Excel-based project analyzing price variation of antihypertensive drugs.
+# 💊 Pharmaceutical Pricing Analysis – Cost of Treatment Study
 
-Pharmaceutical Pricing Analysis – Cost of Treatment Study
+## 📌 Overview
+This project analyzes the price variation of 11 antihypertensive drugs across four major therapeutic classes using Microsoft Excel. It aims to evaluate cost disparities among different brands and understand their potential impact on patient affordability — a concept central to **Health Technology Assessment (HTA)** and **Cost of Treatment (COT)** analysis.
 
-## Overview
-This project analyzes the price variation of 11 antihypertensive drugs across four therapeutic classes using Excel. It calculates % price variation, cost ratios, and identifies the drugs with highest and lowest disparities.
+---
 
-### Objectives:
-- Understand cost variation in single drug therapy.
-- Quantify % price variation across brands.
-- Build a basic Excel dashboard for reporting.
-- Draw implications for Health Technology Assessment (HTA) and affordability.
+## 🎯 Objectives
+- Assess brand-wise cost variation in commonly used antihypertensive drugs.
+- Calculate % price variation using Excel-based formulas.
+- Create visual and tabular summaries for interpretation.
+- Derive insights relevant to HTA and Market Access roles.
 
-## Tools Used
-- Microsoft Excel
-- Formulas: XLOOKUP, Percentage calculations
-- Conditional formatting and basic dashboarding
+---
 
-## Outcome
-- Atenolol (2.5 mg) showed the highest price variation (880%).
-- Prazosin (2.5 mg) showed the least (32.98%).
-- Demonstrates the need for economic evaluation in drug pricing.
+## 📊 Excel Output Snapshots
 
-## Relevance
-Applicable in HTA, COT, and healthcare market access roles.
+### 🔹 Cost Analysis Table
+
+![Cost Analysis Table](https://github.com/xniraj/Cost-of-Treatment-Analysis-Antihypertensives/blob/main/Cost%20analysis.png)
+
+---
+
+### 🔹 Visualization of Price Variation
+
+![Chart](https://github.com/xniraj/Cost-of-Treatment-Analysis-Antihypertensives/blob/main/Chart.png)
+
+---
+
+## 🛠️ Tools & Functions Used
+- Microsoft Excel  
+- Formulas: `XLOOKUP`, `% variation`, rounding, and formatting  
+- Data Cleaning and Basic Dashboard  
+- Conditional Formatting
+
+---
+
+## 📈 Key Insights
+- **Atenolol (2.5 mg)** had the highest price variation at **880%**.
+- **Prazosin (2.5 mg)** showed the lowest at **32.98%**.
+- Major cost discrepancies exist across brands for the same molecule/dose.
+- These findings underline the importance of **cost-conscious prescribing** and **market price monitoring**.
+
+---
+
+## 📌 Relevance
+This project demonstrates practical skills in:
+- Healthcare data analytics
+- Cost-effectiveness analysis
+- Real-world drug pricing assessment  
+Making it highly relevant for roles like **Associate Analyst – COT / HTA / Market Access**.
