@@ -17,7 +17,7 @@ This project analyzes the price variation of 11 antihypertensive drugs across fo
 
 ### 🔹 Cost Analysis Table
 
-![Cost Analysis Table](https://github.com/xniraj/Cost Analysis.png)
+![Cost Analysis Table](https://github.com/xniraj/Cost-of-Treatment-Analysis-Antihypertensives/blob/main/Analysis.png)
 
 ---
 
